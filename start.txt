@@ -1,0 +1,12 @@
+uvicorn app.main:app --reload
+
+
+// {
+//     "email": "sobaka@gmail.com",
+//     "password": "password"
+// }
+
+{
+    "email": "working_user2@gmail.com",
+    "password": "parol"
+}
